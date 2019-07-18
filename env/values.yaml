@@ -20,7 +20,7 @@ expose:
   - --v
   - 4
   config:
-    domain: 35.228.142.32.nip.io
+    domain: k8s.reimerskovgaard.dk
     exposer: Ingress
     http: "true"
 jenkins:
